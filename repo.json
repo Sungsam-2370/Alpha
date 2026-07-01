@@ -677,6 +677,23 @@
       "extracted": 393048,
       "updated": "20/05/2026",
       "screens": 5
+    },
+    {
+      "name": "CASTILLO",
+      "title": "Castle of Illusion",
+      "author": "NaGaa",
+      "version": "1.0.0",
+      "description": "Port Android",
+      "details": "Castle of Illusion Starring Mickey Mouse es una adaptación sobresaliente del clásico juego de plataformas de 16 bits, rediseñado con espectaculares gráficos en 3D y una jugabilidad adaptada que rinde un digno homenaje al título original\n\nApartado gráfico tridimensional: Reimagina por completo los escenarios clásicos con colores vivos, mundos de gominola y bosques mágicos hermosos\n\nAnimaciones fluidas: Los movimientos y expresiones de Mickey Mouse derrochan un carisma y nivel de detalle fantástico.\n\nBanda sonora mágica: Conserva e intensifica la atmósfera de fantasía original de Disney con temas orquestados impecables\n\nMecánica híbrida: Mezcla de forma fluida el desplazamiento lateral en 2D con zonas de exploración totalmente tridimensionales\n\nControles táctiles: Implementa un joystick virtual en pantalla que cumple, aunque los saltos más ajustados pueden costar en pantallas pequeñas.\n\nSoporte de mandos: Es altamente recomendable jugarlo con un controlador físico Bluetooth para disfrutar de la máxima precisión de consola\n\nAventura corta: La historia principal se puede completar en aproximadamente 2 horas y media\n\nValor rejugable: Extender la duración hasta las 5 horas es posible si decides buscar todos los secretos, coleccionables y trajes ocultos\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Alpha/main",
+      "zip_url": "https://github.com/Sungsam-2370/Alpha/releases/download/Nuevo/CASTILLO.zip",
+      "license": "Español - Multi idioma",
+      "category": "Ports",
+      "binary": "/switch/coi/coi_nx.nro",
+      "filesize": 539157,
+      "extracted": 633418,
+      "updated": "20/05/2026",
+      "screens": 5
     }
   ]
 }
